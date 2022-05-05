@@ -7,8 +7,9 @@ This repo contains example code for configuring the m3b Demo Board with Arduino 
 ## Getting Started
 
 1. Install Arduino IDE (tested with v1.8.16)
-2. Add [stm32duino](https://github.com/stm32duino/wiki/wiki/Getting-Started) to Board Managers (v2.1.0)
-3. Add to library manager
+2. Install [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+3. Add [stm32duino](https://github.com/stm32duino/wiki/wiki/Getting-Started) to Board Managers (v2.1.0)
+4. Add to library manager
     - [ms5637](https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library) (v1.0.1)
     - [sht31](https://github.com/RobTillaart/SHT31) (v0.3.4)
     - [adxl362](https://www.arduino.cc/reference/en/libraries/adxl362/) (v1.5.0)
